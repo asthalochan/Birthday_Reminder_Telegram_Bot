@@ -1,0 +1,4 @@
+aiogram
+asyncio
+python-telegram-bot==20.4
+datetime
